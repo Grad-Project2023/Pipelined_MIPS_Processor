@@ -5,7 +5,9 @@ To test the design the processor is simulated on ModelSim tool.
 to run the following programs:
 
 -Get the factorial of 7.
+
 -Get greatest common divisor between 120 and 180.
+
 -Get the Fibonacci sequence.
 
 # DataPath
